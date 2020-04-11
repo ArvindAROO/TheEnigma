@@ -255,4 +255,4 @@ if __name__=='__main__':
     except ValueError as VE:
         print("\nInvalid character as current position\n")
     except Exception as e:
-        print(e)        print("\nInput is :",stringOriginal)
+        print(e)
