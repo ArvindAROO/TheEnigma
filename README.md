@@ -10,5 +10,6 @@ This software is my homage to Mr. Alan Turing, the father of modern computer
 Further information about him and the enigma can be found in his biography-'The imitaion game'-the movie and 'Alan Turing:The Enigma'-the book
 
 Hope you all enjoy this...
+
 Thanking you,
-#<./AK>
+<./AK>
