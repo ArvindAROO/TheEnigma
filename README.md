@@ -1,4 +1,6 @@
 # TheEnigma
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+
 The working software model of The Enigma used by Germans during the world war II
 
 Enigma was a encryption device which was actually a stream cypher (means encrypts each character individually and not a block of characters) Only the alphabets were actually encrypted and was originally case-insensitive. The full working of the Enigma can be found here https://www.quora.com/How-exactly-did-the-Enigma-machine-work-How-did-the-plugboard-and-the-rotors-change-the-letters?
