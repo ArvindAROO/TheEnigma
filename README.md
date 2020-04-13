@@ -1,7 +1,7 @@
 # TheEnigma
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                  [![Python 3.6](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-https://img.shields.io/badge/AK-Made%20by%20AK-success(https://github.com/ArvindAROO/)
+[![AK](https://img.shields.io/badge/AK-Made%20by%20AK-success)](https://github.com/ArvindAROO/)
 
 The working software model of The Enigma used by Germans during the world war II
 
